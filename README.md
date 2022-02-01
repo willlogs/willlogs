@@ -15,7 +15,7 @@ I'd love to call myself an engineer. That's what keeps me from stabbing myself i
     <img src="https://img.shields.io/static/v1?label=Csharp&message=4/5&color=green"/>
     <img src="https://img.shields.io/static/v1?label=Problem%20Solving&message=4/5&color=green"/>
     <br><br>
-    <img src="https://img.shields.io/static/v1?label=C++&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=Cpp&message=2.5/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Gazebo&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=ROS&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Shader%20Programming&message=3.5/5&color=yellow"/>
