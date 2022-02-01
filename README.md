@@ -15,6 +15,9 @@ I'd love to call myself an engineer. That's what keeps me from stabbing myself i
     <img src="https://img.shields.io/static/v1?label=Csharp&message=4/5&color=green"/>
     <img src="https://img.shields.io/static/v1?label=Problem%20Solving&message=4/5&color=green"/>
     <br><br>
+    <img src="https://img.shields.io/static/v1?label=C++&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=Gazebo&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=ROS&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Shader%20Programming&message=3.5/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=ReactJS&message=2/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=VueJS&message=2/5&color=yellow"/>
@@ -23,10 +26,11 @@ I'd love to call myself an engineer. That's what keeps me from stabbing myself i
     <img src="https://img.shields.io/static/v1?label=MongoDB&message=2/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=SQL&message=2/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Linux&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=PyTorch&message=3.5/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=TensorFlow&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=ML&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=RL&message=2/5&color=yellow"/>
     <br><br>
     <img src="https://img.shields.io/static/v1?label=OpenGL&message=1.5/5&color=red"/>
-    <img src="https://img.shields.io/static/v1?label=TensorFlow&message=1.5/5&color=red"/>
-    <img src="https://img.shields.io/static/v1?label=ML&message=2/5&color=red"/>
-    <img src="https://img.shields.io/static/v1?label=C/Cpp&message=2/5&color=red"/>
-    <img src="https://img.shields.io/static/v1?label=Java&message=2/5&color=red"/>
+    <img src="https://img.shields.io/static/v1?label=GANs&message=1.5/5&color=yellow"/>
 </p>
