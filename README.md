@@ -7,6 +7,10 @@ Hi! Welcome to my github profile!
 
 I'd love to call myself an engineer. That's what keeps me from stabbing myself in the heart and ending it all; Building things that didn't exist before.
 
+Checkout my youtube channels:
+1- My game dev channel: https://www.youtube.com/channel/UCIOUkJA6KFYArz-V_kH4zvA
+2- My General Devlog channel: https://www.youtube.com/channel/UCt0hOvp1t1D3a2R_Am9yW_Q
+
 ### Here's **my skillset** as I want to introduce it (*I won't give myself a 5/5 for anything*):
 <br>
 <br>
