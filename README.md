@@ -40,6 +40,8 @@ Checkout my youtube channels:
     <img src="https://img.shields.io/static/v1?label=TensorFlow&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=ML&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=RL&message=2/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=DeFi&message=2.5/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=Solidity&message=2.5/5&color=yellow"/>
     <br><br>
     <img src="https://img.shields.io/static/v1?label=OpenGL&message=1.5/5&color=red"/>
     <img src="https://img.shields.io/static/v1?label=GANs&message=1.5/5&color=yellow"/>
