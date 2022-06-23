@@ -16,7 +16,7 @@ Checkout my youtube channels:
 
 2- My General Devlog channel: https://www.youtube.com/channel/UCt0hOvp1t1D3a2R_Am9yW_Q
 
-### Here's **my skillset** as I want to introduce it (*I won't give myself a 5/5 for anything*):
+### Here's **my skillset** as I want to introduce it (*5/5 means god and I'm no god (god doesn't exist)*):
 <br>
 <br>
 <p align="center">
