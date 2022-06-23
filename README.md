@@ -28,6 +28,7 @@ Checkout my youtube channels:
     <img src="https://img.shields.io/static/v1?label=Cpp&message=2.5/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Gazebo&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=ROS&message=3/5&color=yellow"/>
+    <img src="https://img.shields.io/static/v1?label=verilog&message=3/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=Shader%20Programming&message=3.5/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=ReactJS&message=2/5&color=yellow"/>
     <img src="https://img.shields.io/static/v1?label=VueJS&message=2/5&color=yellow"/>
