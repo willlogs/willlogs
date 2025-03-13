@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./Assets/me-wave.gif" />
+  Code While You Still Can
 </p>
